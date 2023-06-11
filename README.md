@@ -35,7 +35,10 @@
 ![yesaroun's github stats](https://github-readme-stats.vercel.app/api?username=yesaroun&show_icons=true)
 [![yesaroun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yesaroun&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/yesaroun)
 
+<br><br>
+<hr>
 
+![Metrics](https://metrics.lecoq.io/yesaroun?template=classic&base.header=0&base.activity=0&base.community=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Asia%2FSeoul)
 
 <!--
 **yesaroun/yesaroun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
