@@ -2,7 +2,7 @@
   
   #### Blog & Email
   
-  [![Blog Badge](https://img.shields.io/badge/-예사로운-2e8b57?logo=AerLingus&logoColor=white&link=https://yesaroun.tistory.com/)](https://yesaroun.tistory.com/)
+  [![Blog Badge](https://img.shields.io/badge/-예사로운-bcbcbc?logo=WindowsTerminal&logoColor=white&link=https://yesaroun.tistory.com/)](https://yesaroun.tistory.com/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?logo=Gmail&logoColor=white&link=mailto:akor11lyt@gmail.com)](mailto:akor11lyt@gmail.com)
 
   <h1 align="center">Stacks</h1>
