@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> 
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=Java&logoColor=white"> -->
+    <img src="https://img.shields.io/badge/Java-FC4C02?style=for-the-badge&logo=Java&logoColor=white">
   <!--   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"> -->
     <br>
     <img src="https://img.shields.io/badge/ChakraUI-319795?style=for-the-badge&logo=ChakraUI&logoColor=white">
@@ -26,7 +26,7 @@
     <br>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
-<!--     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  -->
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> 
 <!--     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> -->
     <br>
   <!--   <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/> -->
